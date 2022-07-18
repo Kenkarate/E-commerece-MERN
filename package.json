@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "mern",
+=======
+  "name": "jewelstore",
+>>>>>>> b6c3ff2cbb8c64e619dfeff31714605666106677
   "version": "0.1.0",
   "private": true,
   "dependencies": {
